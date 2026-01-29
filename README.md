@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/kushalreya/kushalreya/blob/main/cover_bannner.png)
+
 ## Hi there 👋
 
 <!--
