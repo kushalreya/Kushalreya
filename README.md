@@ -42,7 +42,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
+## 📊 Language Stats
+
+![Metrics](https://metrics.lecoq.io/kushalreya?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.details=percentage)
+
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalreya&layout=compact&theme=tokyonight&langs_count=5)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kushalreya&layout=compact&theme=tokyonight)
 
