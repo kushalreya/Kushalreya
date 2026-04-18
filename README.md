@@ -47,11 +47,17 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/kushalreya" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" />
+  <a href="https://twitter.com/kushalreya">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="60"/>
   </a>
-  <a href="https://www.linkedin.com/in/kushalreya/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" />
+  <a href="https://www.linkedin.com/in/kushalreya/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCF1ucmENjjDZ3gT20Z8a1Nw">
+    <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" height="60" width="60" />
+  </a>
+  <a href="https://linktr.ee/kushalreya">
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="45" style="margin:7px;"/>
   </a>
 </p>
 
