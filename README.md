@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/kushalreya/kushalreya/blob/main/cover_bannner.png)
+![MasterHead](https://github.com/kushalreya/kushalreya/blob/main/cover_bannne.png)
 
 <h1 align="center">Hi 👋, I'm Kush</h1>
 
