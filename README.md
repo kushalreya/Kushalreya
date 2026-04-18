@@ -50,6 +50,9 @@
   <a href="https://twitter.com/kushalreya" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" />
   </a>
+  <a href="https://www.linkedin.com/in/kushalreya/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" />
+  </a>
 </p>
 
 ---
