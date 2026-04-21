@@ -57,7 +57,7 @@
     <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" height="60" width="60" />
   </a>
   <a href="https://linktr.ee/kushalreya">
-    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="45" style="margin:7px;"/>
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="60" style="margin:7px;"/>
   </a>
 </p>
 
