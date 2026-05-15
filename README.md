@@ -66,7 +66,9 @@
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,aws,bootstrap,css,figma,firebase,flutter,git,html,js,kotlin,mysql,postman,python,react,swift,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react,js,html,css,bootstrap,python,c,cpp,mysql,sqlite,firebase,aws,gcp,git,github,gradle,postman,figma,vscode,linux&perline=18"/>
+
 </p>
 
 ---
@@ -75,8 +77,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalreya&theme=tokyonight&hide_border=true&langs_count=6&card_width=1300" 
-    height="200"
+    width="100%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kushalreya&theme=tokyonight&hide_border=true&langs_count=6&card_width=1000" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kushalreya&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
