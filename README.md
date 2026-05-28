@@ -37,7 +37,7 @@
 
 - 📱 Mobile Development: Android  
 - 🌐 Web: HTML, CSS, JavaScript  
-- 🧠 Programming: Kotlin, Python  
+- 🧠 Programming: Kotlin, Python, Java  
 - 🔥 Backend & DB: Firebase, MySQL, Oracle  
 - 🎨 UI/UX: Figma  
 - ⚙️ Tools: Git, Postman, Bootstrap  
