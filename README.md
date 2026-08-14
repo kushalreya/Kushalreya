@@ -76,9 +76,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
+  <img
+    src="./profile/top-langs.svg"
     width="100%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kushalreya&theme=tokyonight&hide_border=true&langs_count=6&card_width=1000" 
+    alt="Top Languages"
   />
 </p>
 
