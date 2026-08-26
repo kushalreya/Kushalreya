@@ -16,20 +16,33 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently working on **Android Development**
-- 👨‍💻 Projects:  
-  - https://github.com/kushalreya  
-- 💬 Ask me about **Android, iOS, Cross Platform, App Development**
-- 📫 Reach me: **kushalreya@gmail.com**
+-  ⁠📱 Primarily focused on *Android development*
+-  ⁠🧩 Interested in building *real world products from idea to implementation*
+-  ⁠🏗️ Enjoy working on *architecture, UI, performance, and problem solving*
+-  🚀 Currently building and improving personal projects
+-  ⁠💼 Open to *freelance Android development and collaborations*
+-  ⁠🧠 Focused on building software with a strong emphasis on quality and maintainability
+-  ⁠📫 Open to *freelance Android development and collaborations*
+-  ⁠⚡ Fun fact: Books + Music = Perfect Day
 
 ---
 
-## 📚 Currently Learning
+## 🚧 Currently Working On
 
-- 📱 Advanced Android Development  
-- ⚡ Cross-platform frameworks (Flutter, React Native)  
-- 🌐 API integration & backend communication  
-- 🎨 UI/UX improvements  
+💬 *Bubbles* — A real-time 1-to-1 chat application built to explore scalable Android architecture, authentication, Cloud Firestore, real-time messaging, and offline support.
+
+*🔨 Currently in active development.*
+
+
+---
+
+## 💻 Building Under Contraris
+
+*Contraris* is my developer identity for publishing and experimenting with Android products on Google Play.
+
+I use it to turn ideas into real products, learn through hands-on development, and continuously improve through user feedback.
+
+📱 *[View Contraris on Google Play](https://play.google.com/store/apps/developer?id=Contraris)*
 
 ---
 
