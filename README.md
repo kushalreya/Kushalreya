@@ -97,11 +97,13 @@ I use it to turn ideas into real products, learn through hands-on development, a
 </p>
 
 <p align="center">
-  <img 
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kushalreya&theme=tokyo-night&hide_border=true" 
+  <img
+    src="https://raw.githubusercontent.com/kushalreya/kushalreya/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
+
 
 ---
 
